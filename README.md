@@ -1,4 +1,3 @@
-readme_content = """
 # Athletic Sales Analysis
 
 ## Overview
